@@ -34,4 +34,3 @@ var Boxes = (function () {
   for (var i = 0; i < box.length; i++ ) {
     scenario.append(box[i]);
   }
-    console.log(box)
